@@ -24,13 +24,11 @@ h1, nav {
 a:link {
 	color: #F5F5F5;
 	text-decoration: none;
-	margin: 0px 0px 0px 32px;
-	transition: margin 1s;
+	transition: color 1s;
 }
 
 a:hover {
 	color: #D6FE62;
-	margin: 0px 0px 0px 64px;
 }
 
 a:visited {
