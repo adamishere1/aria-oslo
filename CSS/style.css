@@ -9,6 +9,11 @@ body {
 	width: 620px;
 }
 
+header {
+	display: flex;
+
+}
+
 h1, nav {
 	font-size: 36px;
 	font-weight: 700;
