@@ -15,10 +15,14 @@ header {
 	justify-content: space-between;
 }
 
-h1, nav, footer {
+nav, footer {
 	font-size: 16px;
-	font-weight: 700;
 	margin-left: 0px;
+}
+
+h1 {
+	font-size: 36px;
+	font-style: italic;
 }
 
 a:link {
@@ -39,6 +43,10 @@ a:visited {
 section {
 	margin: 80px 0 80px 0;
 	display: grid;
+}
+
+section h1 {
+	grid-column: 1 / span 6;
 }
 
 footer {
