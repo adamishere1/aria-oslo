@@ -11,11 +11,12 @@ body {
 
 header {
 	display: flex;
-
+	align-items: center;
+	justify-content: space-between;
 }
 
 h1, nav {
-	font-size: 36px;
+	font-size: 16px;
 	font-weight: 700;
 	margin-left: 0px;
 }
