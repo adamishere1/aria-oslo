@@ -51,7 +51,7 @@ section h1 {
 }
 
 section.project img {
-	grid-column: 1 / span 8;
+	grid-column: 1 / span 3;
 }
 
 footer {
