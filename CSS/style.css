@@ -54,9 +54,6 @@ a:visited {
 section {
 	margin: 80px 0 80px 0;
 	display: grid;
-	gap: 24px;
-	grid-template-columns: 1fr;
-	gap: 24px;
 }
 
 section h1 {
@@ -65,12 +62,12 @@ section h1 {
 }
 
 section.project div.artwork {
-	grid-column: 1 / span 8;
+	grid-column: 1 / span 6;
 	max-height: 640px;
 }
 
 section.project div.description {
-	grid-column: 9 / span 4;
+	grid-column: 7 / span 6;
 
 footer {
 	display: flex;
