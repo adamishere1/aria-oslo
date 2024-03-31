@@ -59,8 +59,7 @@ section {
 }
 
 section h2 {
-	font-size: 36px;
-	grid-column: 1 / span 6;
+	grid-column: 2;
 }
 
 section.project div.artwork {
