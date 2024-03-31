@@ -58,7 +58,7 @@ section {
 }
 
 section.tagline {
-	grid-column: 2 / span 6;
+	grid-column: 7 / span 6;
 }
 
 section.project div.artwork {
