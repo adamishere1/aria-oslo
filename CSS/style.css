@@ -57,13 +57,20 @@ section {
 	gap: 24px;
 }
 
-section.tagline {
-	grid-column-start: 1;
-	grid-column-end: 6;
+section.project div.tagline {
+	grid-column: 1 / span 6;
 }
 
 section.project div.artwork {
 	grid-column: 1 / span 6;
+}
+
+section.project div.gallery1 {
+	grid-column: 1 / span 6;
+}
+
+section.project div.gallery2 {
+	grid-column: 7 / span 6;
 }
 
 section.project div.description {
