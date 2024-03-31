@@ -57,7 +57,7 @@ section {
 	gap: 24px 24px;
 }
 
-section h2 {
+section.tagline {
 	grid-column: 2 / span 6;
 }
 
