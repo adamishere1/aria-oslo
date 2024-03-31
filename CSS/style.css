@@ -118,3 +118,25 @@ footer a {
 
 	}
 }
+
+@media (max-width: 650px) {
+	section {
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		gap: 16px;
+	}
+
+	section.project div.tagline,
+	section.project div.gallery1,
+	section.project div.gallery2,
+	section.project div.artwork,
+	section.project div. description,
+	section.project-alt div.artwork,
+	section.project-alt div.description,
+	section.project div.full 
+	{
+		grid-column: 1 / span 4;
+
+	}
+
+	
+}
