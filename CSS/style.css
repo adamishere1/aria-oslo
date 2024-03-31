@@ -54,11 +54,10 @@ section {
 	margin: 40px 0 40px 0;
 	display: grid;
 	grid-template-columns: repeat (12, 1fr);
-	gap: 24px 24px;
+	gap: 24px;
 }
 
 section.tagline {
-	grid-column: 7 / span 6;
 	background-color: red;
 }
 
