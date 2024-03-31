@@ -37,7 +37,7 @@ h2 {
 }
 
 a:link {
-	color: #F5F5F5;
+	color: #010D11;
 	text-decoration: none;
 	transition: color 1s;
 	margin: 0 0 0 32px;
@@ -48,7 +48,7 @@ a:hover {
 }
 
 a:visited {
-	color: #F5F5F5;
+	color: #010D11;
 }
 
 section {
