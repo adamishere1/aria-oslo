@@ -82,7 +82,7 @@ section.project-alt div.artwork {
 	grid-column: 7 / span 6;
 }
 
-section.project div.description {
+section.project-alt div.description {
 	grid-column: 1 / span 6;
 }
 
