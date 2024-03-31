@@ -107,3 +107,9 @@ footer a {
 		margin: 40px 24px 40px 24px;
 	}
 }
+
+@media (max-width: 920px) {
+	header {
+		flex-direction: column;
+	}
+}
