@@ -125,18 +125,31 @@ footer a {
 		gap: 16px;
 	}
 
-	section.project div.tagline,
-	section.project div.gallery1,
-	section.project div.gallery2,
-	section.project div.artwork,
-	section.project div. description,
-	section.project-alt div.artwork,
-	section.project-alt div.description,
-	section.project div.full 
-	{
+	section.project div.tagline {
 		grid-column: 1 / span 4;
-
 	}
 
+	section.project div.gallery1 {
+		grid-column: 1 / span 4;
+	}
 	
+	section.project div.gallery2 {
+		grid-column: 1 / span 4;
+	}
+	section.project div.artwork {
+		grid-column: 1 / span 4;
+	}
+	section.project div. description {
+		grid-column: 1 / span 4;
+	}
+	
+	section.project-alt div.artwork {
+		grid-column: 1 / span 4;
+	}
+	section.project-alt div.description {
+		grid-column: 1 / span 4;
+	}
+	section.project div.full {
+		grid-column: 1 / span 4;
+	}
 }
