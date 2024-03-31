@@ -59,6 +59,7 @@ section {
 
 section.tagline {
 	grid-column: 7 / span 6;
+	background-color: red;
 }
 
 section.project div.artwork {
