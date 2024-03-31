@@ -64,7 +64,6 @@ section h2 {
 
 section.project div.artwork {
 	grid-column: 1 / span 6;
-	max-height: 640px;
 }
 
 section.project div.description {
