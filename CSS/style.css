@@ -54,6 +54,7 @@ a:visited {
 section {
 	margin: 80px 0 80px 0;
 	display: grid;
+	gap: 24px;
 }
 
 section h1 {
