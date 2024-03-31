@@ -68,8 +68,8 @@ section.project img {
 	grid-column: 1 / span 3;
 }
 
-section.project div {
-	grid-column: 9 / span 4;
+section.project div.artwork {
+	grid-column: 9 / span 3;
 
 footer {
 	display: flex;
