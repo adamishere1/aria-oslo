@@ -53,12 +53,13 @@ a:visited {
 section {
 	margin: 40px 0 40px 0;
 	display: grid;
-	grid-template-columns: repeat (12, 1fr);
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	gap: 24px;
 }
 
 section.tagline {
-	grid-column: 2 / span 6:
+	grid-column-start: 1;
+	grid-column-end: 6;
 }
 
 section.project div.artwork {
